@@ -124,10 +124,10 @@ source ~/.bashrc
 
 Your terminal should now display:
 
-text
+```
 [🟧 your-username ]  :  [🔵 📁 ~/bash-config ]  :  [🟢 ⎇ :main: ]
  14:32:45  ➜ 
-
+```
 
 ### Step 6: (Optional) Add Other Dotfiles
 
