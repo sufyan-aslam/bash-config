@@ -330,4 +330,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - Built with ❤️ for developers who spend their lives in the terminal.
 
 **Made with ❤️ by [sufyan-aslam](https://github.com/sufyan-aslam)**
-EOFREADME
